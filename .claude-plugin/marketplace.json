@@ -1,0 +1,12 @@
+{
+  "name": "cache-warmth",
+  "description": "A quiet warmth meter for Claude Code's prompt cache, and keep-warm that turns itself on after every reply.",
+  "owner": { "name": "James Heydenrych" },
+  "plugins": [
+    {
+      "name": "cache-warmth",
+      "source": "./",
+      "description": "A quiet warmth meter for the prompt cache above the prompt, and keep-warm that turns itself on after every reply. Based on Cache Tax by Karan Bansal (MIT)."
+    }
+  ]
+}

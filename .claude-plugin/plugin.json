@@ -1,0 +1,10 @@
+{
+  "name": "cache-warmth",
+  "version": "0.3.0",
+  "description": "A live warmth meter for the prompt cache above the prompt, and keep-warm that turns itself on after every reply, so a break you never planned does not cost a cold re-write. Based on Cache Tax by Karan Bansal (MIT).",
+  "author": {
+    "name": "James Heydenrych"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
